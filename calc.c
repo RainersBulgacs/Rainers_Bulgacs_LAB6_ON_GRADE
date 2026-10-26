@@ -1,5 +1,5 @@
 // Name: Rainers   Lastname: Bulgacs   StudentID: 251RDC073
-// (optional) https://github.com/<your-username>/calc-lab-home
+// (optional) https://github.com/RainersBulgacs/Rainers_Bulgacs_LAB6_ON_GRADE
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // Resources used: To understand how it works: https://www.youtube.com/watch?v=anMacQo3IR8
 // Structure in priority of calculating: https://github.com/WarpRules/recursive_descent_parser_tutorial/blob/main/recursive_descent_parser_tutorial.c
